@@ -1,0 +1,59 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Taxonomy Filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-25 17:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.4.4"
+
+#: widgets/ajax-taxonomy-filter-widget.php:29
+msgid "Add a filter module"
+msgstr ""
+
+#. Name of the plugin
+#: config/admin-panel.php:11 widgets/ajax-taxonomy-filter-widget.php:27
+msgid "Ajax Taxonomy Filter"
+msgstr ""
+
+#. Description of the plugin
+msgid "Filter archive lists by taxonomy."
+msgstr ""
+
+#: config/admin-panel.php:20
+msgid "HTML content element"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sandronunes.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sandro Nunes"
+msgstr ""
+
+#: src/Frontend.php:414
+msgid "Show all"
+msgstr ""
+
+#: config/admin-panel.php:21
+msgid ""
+"The HTML element, id or class where the ajax will reload the content. Ex: "
+"main, #primary, .products, ..."
+msgstr ""
+
+#: config/admin-panel.php:27
+msgid "Use ajax"
+msgstr ""
+
+#: config/admin-panel.php:28
+msgid "Whether to use ajax on the filters."
+msgstr ""
